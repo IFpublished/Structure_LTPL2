@@ -1,0 +1,272 @@
+{
+ "title": "Box Culvert LTPL 2",
+ "updated": "2026-11-01T12:03:01+00:00",
+ "items": [
+  {
+   "code": "8+268-IFC",
+   "sta": "8+268",
+   "parts": 4,
+   "rebar": 318,
+   "vol": {
+    "C30": 72.044
+   },
+   "file": "8+268-IFC.ifc.gz",
+   "sha": "0566b9b6aa1455daa28f3ca343bd8cff25a06e2319f06614277e507bfa95b7a6",
+   "size": 5500822,
+   "gzSize": 904804,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "8+767-IFC",
+   "sta": "8+767",
+   "parts": 4,
+   "rebar": 496,
+   "vol": {
+    "C30": 202.797
+   },
+   "file": "8+767-IFC.ifc.gz",
+   "sha": "bcd9b193b587c728c9158e20809547617c0d3d30e35186257b795b153039396e",
+   "size": 10238891,
+   "gzSize": 1640423,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "9+081-IFC",
+   "sta": "9+081",
+   "parts": 4,
+   "rebar": 400,
+   "vol": {
+    "C30": 122.518
+   },
+   "file": "9+081-IFC.ifc.gz",
+   "sha": "b3c705bd2817e6094bfdf59cc7a6a826c34ebcf2acb98699a8685f788f1bca9e",
+   "size": 5813543,
+   "gzSize": 804215,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "9+746-IFC",
+   "sta": "9+746",
+   "parts": 4,
+   "rebar": 318,
+   "vol": {
+    "C30": 72.049
+   },
+   "file": "9+746-IFC.ifc.gz",
+   "sha": "122d3c0f47c0f7c7f6ce870d0005585fe76c270e80167c43dc9655061e3ad290",
+   "size": 5156230,
+   "gzSize": 705571,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "9+880-IFC",
+   "sta": "9+880",
+   "parts": 4,
+   "rebar": 400,
+   "vol": {
+    "C30": 122.518
+   },
+   "file": "9+880-IFC.ifc.gz",
+   "sha": "c0c6e7f67cc2bbb363442c141d6807d48f3776f930087f3d7d27c3579ab65407",
+   "size": 5814010,
+   "gzSize": 803705,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "10+278-IFC",
+   "sta": "10+278",
+   "parts": 4,
+   "rebar": 318,
+   "vol": {
+    "C30": 72.046
+   },
+   "file": "10+278-IFC.ifc.gz",
+   "sha": "175b27040e50c9ca17129b3826f5404592bc5f85a0676990d817e62bfcfbff6d",
+   "size": 5496683,
+   "gzSize": 897819,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "11+264-IFC",
+   "sta": "11+264",
+   "parts": 4,
+   "rebar": 218,
+   "vol": {
+    "C30": 61.421
+   },
+   "file": "11+264-IFC.ifc.gz",
+   "sha": "d9ca197945717e49adaba48f51bf41d531700d40da65f389336fdca666f327e5",
+   "size": 4805886,
+   "gzSize": 781852,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "11+632-IFC",
+   "sta": "11+632",
+   "parts": 4,
+   "rebar": 318,
+   "vol": {
+    "C30": 72.047
+   },
+   "file": "11+632-IFC.ifc.gz",
+   "sha": "ab86dac2f10953d5a773bcf4fe6655c693840d8eefd3ba392881a478a26ea838",
+   "size": 5506917,
+   "gzSize": 885902,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "11+738-IFC",
+   "sta": "11+738",
+   "parts": 4,
+   "rebar": 318,
+   "vol": {
+    "C30": 72.046
+   },
+   "file": "11+738-IFC.ifc.gz",
+   "sha": "dfc179b0d5a6a09e382e16bdd066e365acae700f8b1088b7e341f79fbce74251",
+   "size": 5156865,
+   "gzSize": 704170,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "12+028-IFC",
+   "sta": "12+028",
+   "parts": 4,
+   "rebar": 318,
+   "vol": {
+    "C30": 72.046
+   },
+   "file": "12+028-IFC.ifc.gz",
+   "sha": "72d5e2bf4a9b0b68087a957a6e24b0021e2b9aaa6e124638cab333112c09c218",
+   "size": 5156495,
+   "gzSize": 704609,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "12+629-IFC",
+   "sta": "12+629",
+   "parts": 4,
+   "rebar": 400,
+   "vol": {
+    "C30": 122.512
+   },
+   "file": "12+629-IFC.ifc.gz",
+   "sha": "247a4b019d11388691fa476065a7a04615008ce19cf3837cb80c947f88a92dea",
+   "size": 5814318,
+   "gzSize": 801891,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "12+730-IFC",
+   "sta": "12+730",
+   "parts": 4,
+   "rebar": 400,
+   "vol": {
+    "C30": 112.782
+   },
+   "file": "12+730-IFC.ifc.gz",
+   "sha": "10a385ec5d619cb6de3dccf36eff3a8e892fddd0d057e442e59ee57c4d8b2ded",
+   "size": 6177017,
+   "gzSize": 998461,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "13+034-IFC",
+   "sta": "13+034",
+   "parts": 4,
+   "rebar": 218,
+   "vol": {
+    "C30": 61.418
+   },
+   "file": "13+034-IFC.ifc.gz",
+   "sha": "481358962bd56503e15d17b6a38f9c1c7544486b5585309e1bc6d5e6b4e6f2f6",
+   "size": 4811509,
+   "gzSize": 769212,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "13+429-IFC",
+   "sta": "13+429",
+   "parts": 4,
+   "rebar": 400,
+   "vol": {
+    "C30": 112.782
+   },
+   "file": "13+429-IFC.ifc.gz",
+   "sha": "57311fcf5da3c99da8d3b836adb4f07bf12e1c56af68b31936ccf1d0939d1134",
+   "size": 6174614,
+   "gzSize": 1000274,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "13+523-IFC",
+   "sta": "13+523",
+   "parts": 4,
+   "rebar": 190,
+   "vol": {
+    "C30": 50.999
+   },
+   "file": "13+523-IFC.ifc.gz",
+   "sha": "399015289f5a09b38813601f4c12ff54b4113c92a3fe7cc2e1b1abfbf340d61e",
+   "size": 4648783,
+   "gzSize": 746615,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "14+085-IFC",
+   "sta": "14+085",
+   "parts": 4,
+   "rebar": 318,
+   "vol": {
+    "C30": 72.045
+   },
+   "file": "14+085-IFC.ifc.gz",
+   "sha": "b837a9311f2017daff70026ce6a1fefb8fa736474790989ecf04f6c1649b249c",
+   "size": 5500158,
+   "gzSize": 890885,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "14+484-IFC",
+   "sta": "14+484",
+   "parts": 4,
+   "rebar": 218,
+   "vol": {
+    "C30": 61.426
+   },
+   "file": "14+484-IFC.ifc.gz",
+   "sha": "2fe9403f139873a665dfa217835c4c0518fc1307d7c43d927e0e5f1501737afb",
+   "size": 4481418,
+   "gzSize": 598143,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "14+675-IFC",
+   "sta": "14+675",
+   "parts": 4,
+   "rebar": 190,
+   "vol": {
+    "C30": 50.999
+   },
+   "file": "14+675-IFC.ifc.gz",
+   "sha": "aabef9450aa3708b90a1af3ddf95a2b50cc06a9840e205f6699bbf481fb71791",
+   "size": 4659699,
+   "gzSize": 739959,
+   "kind": "Box Culvert"
+  },
+  {
+   "code": "15+600-IFC",
+   "sta": "15+600",
+   "parts": 4,
+   "rebar": 218,
+   "vol": {
+    "C30": 61.431
+   },
+   "file": "15+600-IFC.ifc.gz",
+   "sha": "d5c1be3eca3d39cce9547e95ce89a059f8b8d3a392cbc25a999b5b71a9a7fca3",
+   "size": 4807079,
+   "gzSize": 773035,
+   "kind": "Box Culvert"
+  }
+ ]
+}
