@@ -1,9 +1,0 @@
-{
-  "appId": "com.ilhvmcndr.geopdf",
-  "appName": "GeoPDF",
-  "webDir": "www",
-  "android": {
-    "allowMixedContent": false,
-    "webContentsDebuggingEnabled": false
-  }
-}
