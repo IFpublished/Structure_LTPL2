@@ -1,6 +1,6 @@
 {
  "title": "Box Culvert LTPL 2",
- "updated": "2026-11-15T00:07:14+07:00",
+ "updated": "2026-11-16T12:22:39+07:00",
  "items": [
   {
    "code": "8+268-IFC",
@@ -140,34 +140,6 @@
    "sha": "66758243ece6b0f4420c0683e4b55dd84154ff84954183725f9aa76e3dde324b",
    "size": 5156495,
    "gzSize": 707489,
-   "kind": "Box Culvert"
-  },
-  {
-   "code": "12+629-IFC",
-   "sta": "12+629",
-   "parts": 4,
-   "rebar": 400,
-   "vol": {
-    "C30": 122.512
-   },
-   "file": "12+629-IFC.ifc.gz",
-   "sha": "ddd47052cedd6dd2d6e5d1fe5b91c56378f6bf3ee0378d3c66c60a8e8c7c9db1",
-   "size": 5814320,
-   "gzSize": 806777,
-   "kind": "Box Culvert"
-  },
-  {
-   "code": "12+730-IFC",
-   "sta": "12+730",
-   "parts": 4,
-   "rebar": 400,
-   "vol": {
-    "C30": 112.782
-   },
-   "file": "12+730-IFC.ifc.gz",
-   "sha": "8b2388ecdc9a6180bea19d0a1ee1726ddad8a014a2442544073e5526cf98db77",
-   "size": 6177017,
-   "gzSize": 1013300,
    "kind": "Box Culvert"
   }
  ]
